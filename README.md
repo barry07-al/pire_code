@@ -1,3 +1,10 @@
+# Défi : Mauvais code
+
+## Equipe
+
+Nasa des voleurs
+
+
 ## Explication du mauvais code
 
 Concernant ce défi, on a décidé d'implementer le tri stupide en `langage c`.
@@ -22,6 +29,34 @@ Pour l'éxécution du code, on construit une liste non triée contenant 8 élém
 
 Les éléments de cette liste sont : 2, 4, 3, 1, 0, 3, 5 et 8
 
+
+## Exécution
+
+Pour éxécuter le code, veuillez éxécuter ces commandes suivantes :
+
+Pour la compilation,
+
+```console
+$ make pireCode
+```
+
+Pour l'éxécution
+
+```console
+$ ./pireCode
+```
+
+Pour nettoyer le dossier (suprimer le fichier binaire)
+
+```console
+$ make clean
+```
+
+Pour nettoyer et compiler
+
+```console
+$ make
+```
 
 Attention
 ---------
